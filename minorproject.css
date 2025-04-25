@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10%;
+    width: 68%;
+    margin-left: 13.2rem;
+    border: 10px solid rgb(170, 22, 22);
+    background-color: aquamarine;
+}
+.text{
+    margin-top: 1px;
+    margin-left: 3%;
+    font-weight: bolder;
+    font-stretch: ultra-expanded;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mainform{
+    width: 820px;
+    height: 59rem;
+    margin-left: 14.5rem;
+    background-color: aquamarine;
+}
+.row{
+    height: 20px;
+    font-weight: 900;
+    margin: 1.7rem;
+}
+
+.form-control{
+    width: 520px;
+    height: 22px;
+    border-radius: 5px;
+}
+#cvformtemplate{
+    width: 80%;
+    margin-left: 7.8rem;
+    border: 2px solid black;
+    display:none;
+    
+}
+#cvformtemplate2{
+    display: none;
+}
+
